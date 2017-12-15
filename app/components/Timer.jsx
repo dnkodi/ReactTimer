@@ -2,6 +2,7 @@ var React = require('react');
 var Clock = require('Clock');
 var Controls = require('Controls');
 
+//wow im the 1st comment
 var Timer = React.createClass({
   
   getInitialState: function(){
